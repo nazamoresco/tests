@@ -66198,13 +66198,13 @@ o=A.eN(l,p)
 p=q.a
 l=p[0]
 p=p[1]
-l=A.fD(A.XD("images_previous/fondo_completo_sin_nubes.png",B.ev,B.cZ),p,l)
+l=A.fD(A.XD("assets/images_previous/fondo_completo_sin_nubes.png",B.ev,B.cZ),p,l)
 m=A.bP(a,n,m).w
 p=o.a
 r=p[0]
 p=p[1]
 s=t.E
-return A.ng(B.bt,A.a([l,new A.wj(A.fD(A.ng(B.bt,A.a([new A.iE(B.vH,n,n,A.lR(n,A.XD("images/personaje_grande.webp",B.N,B.cZ),n,n,p,n,B.Af,r),n),new A.iE(B.N,n,n,A.Cg(A.a([B.An,B.Ie,new A.iS(8,B.cl,A.ae5(A.a([new A.mv("Nivel 1",new A.Xj(a),k,n),B.hG,new A.mv("Nivel 2",new A.Xk(a),k,n),B.hG,new A.mv("Nivel 3",new A.Xl(a),k,n),B.hG,new A.mv("Nivel 4",new A.Xm(a),k,n)],s),B.an),n)],s),B.d7,B.fR,B.as),n)],s),B.bm),n,m.a.a),B.H,n),B.EZ],s),B.bm)}}
+return A.ng(B.bt,A.a([l,new A.wj(A.fD(A.ng(B.bt,A.a([new A.iE(B.vH,n,n,A.lR(n,A.XD("assets/images/personaje_grande.webp",B.N,B.cZ),n,n,p,n,B.Af,r),n),new A.iE(B.N,n,n,A.Cg(A.a([B.An,B.Ie,new A.iS(8,B.cl,A.ae5(A.a([new A.mv("Nivel 1",new A.Xj(a),k,n),B.hG,new A.mv("Nivel 2",new A.Xk(a),k,n),B.hG,new A.mv("Nivel 3",new A.Xl(a),k,n),B.hG,new A.mv("Nivel 4",new A.Xm(a),k,n)],s),B.an),n)],s),B.d7,B.fR,B.as),n)],s),B.bm),n,m.a.a),B.H,n),B.EZ],s),B.bm)}}
 A.Xj.prototype={
 $0(){A.ja(this.a,!1).mG("/level_1",t.X)},
 $S:0}
@@ -66353,7 +66353,7 @@ q=s}return q},
 l(){this.gEt().l()
 this.gGz().l()
 this.Sc()},
-U(a){var s,r,q,p,o=this,n=null,m="images_previous/nubes_panoramica.png",l=o.e
+U(a){var s,r,q,p,o=this,n=null,m="assets/images_previous/nubes_panoramica.png",l=o.e
 if(l===$){s=t.Ni
 r=A.dr(B.J,o.gEt(),n)
 o.e!==$&&A.at()
