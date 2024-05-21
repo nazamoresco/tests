@@ -68458,7 +68458,7 @@ case 5:p=c
 q.na!==$&&A.bb()
 q.na=p
 s=6
-return A.K(A.akG("touch.mp3",9),$async$aB)
+return A.K(A.akG("touch.wav",9),$async$aB)
 case 6:p=c
 q.h_!==$&&A.bb()
 q.h_=p
