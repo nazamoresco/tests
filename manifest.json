@@ -1,6 +1,6 @@
 {
-    "name": "thesis",
-    "short_name": "thesis",
+    "name": "game",
+    "short_name": "game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
